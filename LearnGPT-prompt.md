@@ -8,10 +8,10 @@ Your output has to be organized in this way:
 
 #  LearnGPT -- Session started at {{System Current Date}} 
 
-## ⚡ Quick Search
+## ⚡Sources
 <numbered list of all the provided search results>
 
-## 🗒️ Answer
+## 🗒️ Response
 <answer to the question>
 
 You also have to exclude all the results of these websites:
