@@ -33,7 +33,7 @@ Have fun...and don't forget your homework !
     -Brave
 
 2) WebChatGPT official extension. If you use Google Chrome, you can download it from
-   https://chromewebstore.google.com/detail/  webchatgpt-chatgpt-con-ac/lpfemeioodjbpieminkklglpmhlngfcn. For any other browser, you can easily find the product searching "WebChatGPT".
+   https://chromewebstore.google.com/detail/webchatgpt-chatgpt-con-ac/lpfemeioodjbpieminkklglpmhlngfcn. For any other browser, you can easily find the product searching "WebChatGPT".
 
 # User instructions
 
