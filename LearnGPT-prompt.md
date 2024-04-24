@@ -11,7 +11,7 @@ Your output has to be organized in this way:
 ## ⚡Sources
 <numbered list of all the provided search results>
 
-## 🗒️ Answer
+## 🗒️ Response
 <answer to the question>
 
 You also have to exclude all the results of these websites. Every web address is separated by the others by the charachter ";":
