@@ -37,14 +37,34 @@ Have fun...and don't forget your homework !
 
 # User instructions
 
-To use in the most efficient way the prompt, you should follow this guidelines:
+To use in the most efficient way the prompt, you should follow thes guidelines:
 
 1) The prompt has a space called "Blocked", in the input bar. Here you can insert all the web URLs that you don't want are used by    LearnGPT for his responses. You have to write the banned addresses separated by a ";", like this:
 
     www.facebook.com; www.tikok.com; www.wikipedia.org
 
-IMPORTANT: THE PROVIDED HEREADDRESSES ARE ONLY EXAMPLES FOR EXPLAINING HOW THE PROMPT WORKS.
+IMPORTANT: THE ADDRESSES PROVIDED HERE ARE ONLY EXAMPLES FOR EXPLAINING HOW THE PROMPT WORKS.
 
 2) Always insert clearly the subject and the topic that you want to search with LearnGPT. You have these two informations in the spaces in the prompt windows, called "Subject" and "Topic".
 
 3) If the LearnGPT output isn't good for you and you want to fastly say "Do this again, but in a better way.", you can type in the chat (after the first LearnGPT response) the keyword "/REDO". This command will force LearnGPT to follow your guidelines and make his work better. If the answer still hasn't the desired quality, just perform a new chat with LearnGPT and explain better the task.
+
+
+# General ChatGPT tips
+
+In general, always remeber that you're talking to an AI, so avoid complex language and expressions, always be clear and don't include useless terms like "Please, do...", "Can you please..." and also exclude direct questions. This's becuase ChatGPT works better with "commands": at example, if you want to know how to say a "hi" in spanish, don't type "How can i say hi in spanish ?" but instead say "Tell me how to say hi in spanish."
+
+Onother good habit is to use delimiters. At example, if you want a translations of a text, you can write your request like this:
+
+"Translate he following text in spanish:"
+
+(Avoid type the marks here, i used them to separate my text from the example).
+
+As you can see, i typed a command request, not a question, and i also inserted the ":" charachter; this helps ChatGPT to recognize that the text before the ":" is your request, and after the ":" there's the text
+that ChatGPT actually has to translate.
+
+Talkig about this, another good action is to use some characters to "contain" the text. If you have to include a second text after your request, you can use determinate character to say "My secondary text starts here and ends there". 
+
+Here at example, to divide better the text to translate to our request we can use delimiters like marks (""), brackets (like "[]" and the "{}". I don't reccomed using the round brackets, becuase ChatGPT usually confuse them with the actual text) and other characters at your own choice. In my opinion, the best characters are simple marks (""), but sometimes you will want to insert them in the text; in that case, you can use the "<>". These ones are really good, becuase the various languages usually don't have this letters in their vocabulary and ChatGPT will automatically detect them as text delimiters.
+
+Your delimiters are your choice, select them basing on the situation, if you need to insert a character in the text or something else.
