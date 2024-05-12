@@ -1,7 +1,7 @@
 # Introduction
 
 LearnGPT is a free project, created by ShadowRocket227, for helping students at middle and high school level in studyng, searching and generally, learning.
-LearnGPT Is avaible as "1-click prompt" on the MaxAI
+LearnGPT Is avaible as "1-click prompt" on MaxAI.
 
 The only requirment Is one of the two official MaxAI extension, "WebChatGPT" and "MaxAI.me", both downloadble for any modern browser like Chrome, Edge and Firefox, from their official stores.
 
