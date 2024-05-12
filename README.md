@@ -1,10 +1,11 @@
 # Introduction
 
-LearnGPT is a free project, created by ShadowRocket227, for helping students at middle school level in studyng, searching and generally, learning.
-LearnGPT is a customized prompt for the web extension "WebChatGPT": you can use this prompt searching his name in the "1-click prompts" sector on chat.openai.com, after
-the extension installation.
+LearnGPT is a free project, created by ShadowRocket227, for helping students at middle and high school level in studyng, searching and generally, learning.
+LearnGPT Is avaible as "1-click prompt" on the MaxAI
 
-The only requirment is the extension, downloadble for any modern browser like Chrome, Edge and Firefox, from their official stores.
+The only requirment Is one of the two official MaxAI extension, "WebChatGPT" and "MaxAI.me", both downloadble for any modern browser like Chrome, Edge and Firefox, from their official stores.
+
+You can find the setup and use tutorials below.
 
 Why LearnGPT is better then ChatGPT ? For a lot of reasons:
 
