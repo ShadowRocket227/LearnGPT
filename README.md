@@ -12,12 +12,12 @@ Why LearnGPT is better then ChatGPT ? For a lot of reasons:
 -It can search on the web.
 -It use the informations taken on the internet for checking the generated contents.
 -It leave a complete source mapping, for checking the web pages visited by ChatGPT.
--Is focus on the school, so he can adapt to various subjects and topic using the most correct vocabulary, tone, writing style etc. based on the selected subject.
+-Is focused on the school, so he can adapt to various subjects and topic using the most correct vocabulary, tone, writing style etc. based on the selected subject.
 -You can customize a lot of options, like banned web addresses, writing style and output language, directly from the prompt bar of WebChatGPT/MaxAI.me, after selecting the prompt.
 
 And so on.
 
-You can find the raw prompt in the "LearnGPT-prompt.md" file. 
+You can find the raw prompt in the "LearnGPT-prompt.txt" file. 
 
 DISCLAIMER: DON'T USE THE PROMPTS CONTAINED ON BRANCH "dev". THEY ARE BETA PROMPTS AND IS NOT GURANTEED A SMOOTH EXECUTION AND EXPERIENCE. ONLY LOOK ON BRANCH "main".
 
@@ -38,19 +38,19 @@ The following text explain how to use the prompt, so please, read this file care
 
 # Setup
 
-Becuase of the difficult that i had in publishing the prompt on the platform, i reccomend you to setup manually the prompt and adding it to your "Own 1-click prompts" area. You can do this following these instructions.
+Becuase of the difficult that i had in publishing the prompt on the platform, i reccomend you to setup manually the prompt and adding it to your "Own" area. You can do this following these instructions.
 
 1) WebChatGPT
 
-First, download the extension WebChatGPT or MaxAI.me. Both extension are managed by the same producer and they have similar fetuares, but i reccomend you uising WebChatGPT becuase it's lighter and i think is also more useful.
+First, download the extension WebChatGPT. 
 
-These two extensions are web AI services: they can, at example, allow you to search on the web with ChatGPT (a crucial fetuare for LearnGPT).
+This extension Is a web AI service: it can, at example, allow you to search on the web with ChatGPT (a crucial fetuare for LearnGPT).
 
 Now go on chat.openai.com, login with your OpenAI account and make sure that the buttons "1-click prompts" and "Web access" are both turned on. 
 You can find this buttons in the downest area of the page.
 
 Then, in the 1-click prompts window select "Own", click "Login" and create (or login, if alredy have an account) a MaxAI.me account. For do this, it will also ask you to
-install the MaxAI.me extension (becuase, as i said before, MaxAI owns WebChatGPT and MaxAI.me). It's completley safe and after creating and login into the MaxAI account you can remove it without any problem.
+install the MaxAI.me extension becuase, MaxAI owns boh WebChatGPT and MaxAI.me. It's completley safe and after creating and login into the MaxAI account you can remove it without any problem.
 
 Now, click on "Add new prompt template" and in the "Template" area paste the prompt that you find in the LearnGPT-prompt.txt file.
 Then go on "Add new variable" add this variable names:
